@@ -1,4 +1,4 @@
-# RentifyHub
+# RentifyHub - Car Rental Management System
 
 <p align="center">
     <a href="https://laravel.com" target="_blank">
@@ -6,19 +6,33 @@
     </a>
 </p>
 
-RentifyHub is a web application developed in PHP using the Laravel framework for managing car rentals. This project allows users to seamlessly handle various aspects of car rental services, including the management of cars, user accounts, and rental transactions.
+## Overview
 
-## Features
+RentifyHub is a web application developed with PHP, Laravel framework, and MySQL database, aiming to streamline the management of car rentals. This project focuses on handling individuals and a fleet of cars, providing essential features such as:
 
-- **Car Management:** Create, modify, and delete entries for cars in the rental fleet.
-- **User Accounts:** Users can create accounts, log in, and manage their rental history.
-- **Rent and Return:** Facilitates the process of renting and returning cars for registered users.
-- **Authentication:** Secure user authentication system with role-based access (admin and regular user roles).
-- **Administrative Functions:** Admin users can perform actions like modifying, deleting, and adding cars.
+- **Car Management:**
+  - Create, modify, and delete entries for cars in the rental fleet.
+  - View a list of all cars in the fleet.
+
+- **Rental History:**
+  - List individuals who have rented a car.
+
+- **Rental Transactions:**
+  - Allow individuals to borrow and return cars.
+
+- **User Authentication:**
+  - Users must create an account and be logged in to rent a vehicle.
+
+- **Access Control:**
+  - Unauthenticated users can view the list of vehicles.
+  - Administrative functionalities, such as modification, deletion, and addition of vehicles, are available only to users with administrative profiles.
+
+- **User-Friendly Navigation:**
+  - All pages include a menu (header) for seamless navigation between different sections.
 
 ## Getting Started
 
-To get started with RentifyHub, follow these steps:
+Follow these steps to get RentifyHub up and running on your local environment:
 
 1. **Clone the Repository:**
 
