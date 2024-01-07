@@ -70,8 +70,8 @@ Follow these steps to get RentifyHub up and running on your local environment:
    ```
 
 3. **Set Up Database:**
-   - Create a new MySQL database.
-   - Copy the `.env.example` file to `.env` and configure the database connection.
+   - Create a new MySQL database user and database (follow the instructions above).
+   - Copy the `.env.example` file to `.env` and configure the database connection with the created user and database.
    - Run migrations and seed the database:
 
      ```bash

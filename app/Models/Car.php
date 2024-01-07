@@ -13,6 +13,8 @@ class Car extends Model
 
     protected $fillable = [
         'brand',
-        'model'
+        'model',
+        'created_at',
+        'updated_at',
     ]; // Add other columns as needed
 }
