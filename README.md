@@ -1,9 +1,7 @@
 # RentifyHub - Car Rental Management System
 
 <p align="center">
-    <a href="https://laravel.com" target="_blank">
-        <img src="assets/RentifyHub_2.png" width="400">
-    </a>
+  <img src="assets/RentifyHub_2.png" width="400">
 </p>
 
 ## Overview
@@ -29,6 +27,30 @@ RentifyHub is a web application developed with PHP, Laravel framework, and MySQL
 
 - **User-Friendly Navigation:**
   - All pages include a menu (header) for seamless navigation between different sections.
+
+## Database Configuration
+
+RentifyHub uses a MySQL database to store information about cars, users, and rentals. Follow these steps to set up the database:
+
+1. **Create Database User:**
+
+   ```sql
+   CREATE USER user_rentifyhub IDENTIFIED BY 'passwd_rentifyhub';
+   ```
+
+2. **Create Database:**
+
+   ```sql
+   CREATE DATABASE db_rentifyhub;
+   ```
+
+3. **Grant Privileges:**
+
+   ```sql
+   GRANT ALL PRIVILEGES ON db_rentifyhub.* TO user_rentifyhub;
+   ```
+
+Make sure to replace `'passwd_rentifyhub'` with a strong password of your choice. Update your `.env` file in the Laravel project with the corresponding database connection details.
 
 ## Getting Started
 
