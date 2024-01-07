@@ -22,11 +22,11 @@ class Rental extends Model
 
     public function user()
     {
-        return $this->belongsTo(User::class);
+        return $this->belongsTo(User::class, "user_id", "id");
     }
 
     public function car()
     {
-        return $this->belongsTo(Car::class);
+        return $this->belongsTo(Car::class, "car_id", "id");
     }
 }
