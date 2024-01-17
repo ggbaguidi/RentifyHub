@@ -1,3 +1,7 @@
+<p align="center">
+<img align="center" src="http://ForTheBadge.com/images/badges/built-with-love.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/makes-people-smile.svg"> <img align="center" src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
+</p>
+
 # RentifyHub - Car Rental Management System
 
 <p align="center">
