@@ -2,7 +2,7 @@
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="url{{url('/')}}" class="logo d-flex align-items-center" >
-        <img src="images/RentifyHub.png" alt=""  style="width: 100%;height:100px">
+        <img src="/images/logo_R.png" alt=""  style="width: 100%;height:100px">
       </a>
 
    

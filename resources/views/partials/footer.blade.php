@@ -29,7 +29,7 @@
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
             <a href="index.html" class="logo d-flex align-items-center">
-              <img src="images/RentifyHub.png" alt="">
+              <img src="/images/logo_R.png" alt="">
             </a>
             <p class="" style="font-size: 20px;">Le bon endroit pour louer vos voitures en toute sécurité pour vos courses et manifestations de tout genre. Nous faisons tout pour votre bien-être.</p>
             <div class="social-links mt-3">
