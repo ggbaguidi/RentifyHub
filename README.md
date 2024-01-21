@@ -82,13 +82,19 @@ Follow these steps to get RentifyHub up and running on your local environment:
      php artisan migrate --seed
      ```
 
-4. **Start the Development Server:**
+4. **Generate application key**
+
+   ```bash
+   php artisan key:generate
+   ```
+
+5. **Start the Development Server:**
 
    ```bash
    php artisan serve
    ```
 
-5. **Access the Application:**
+6. **Access the Application:**
    Open your web browser and go to `http://localhost:8000` to access RentifyHub.
 
 ## Contributing
