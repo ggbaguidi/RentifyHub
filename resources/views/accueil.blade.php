@@ -107,7 +107,7 @@
                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
               </div>
               <p>
-                J'ai pris contacte avec <b>Car House Hiring</b> il y a de cela deux ans. J'avoue que c'est une équipe très dynamique qui fait fonctionner cette organisation. La satisfaction est toujours au rendez-vous et même je suis surpris des bonus qu'ils m'offrent.
+                J'ai pris contacte avec <b>RentifyHub BENIN</b> il y a de cela deux ans. J'avoue que c'est une équipe très dynamique qui fait fonctionner cette organisation. La satisfaction est toujours au rendez-vous et même je suis surpris des bonus qu'ils m'offrent.
               </p>
               <div class="profile mt-auto">
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
