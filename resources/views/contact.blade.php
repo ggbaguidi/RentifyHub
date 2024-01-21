@@ -101,7 +101,7 @@
             <i class="bi bi-whatsapp" style="color: #15be56;"></i>
             <div>
                 <h4 style="color: #000; font-weight: bold; font-size:1.4rem;"> Whatsapp</h4>
-                <a href="wa.me/95371154" class="fb">https//wa.me/52445460</a>
+                <a href="wa.me/52445460" class="fb">https//wa.me/52445460</a>
               </div>
           </div>
         </div>

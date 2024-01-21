@@ -88,13 +88,19 @@ Follow these steps to get RentifyHub up and running on your local environment:
    php artisan key:generate
    ```
 
-5. **Start the Development Server:**
+5. **To create the symbolic link, you may use the storage:link Artisan command**
+
+   ```bash
+   php artisan storage:link
+   ```
+
+6. **Start the Development Server:**
 
    ```bash
    php artisan serve
    ```
 
-6. **Access the Application:**
+7. **Access the Application:**
    Open your web browser and go to `http://localhost:8000` to access RentifyHub.
 
 ## Contributing
